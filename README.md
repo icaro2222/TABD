@@ -16,7 +16,7 @@
 	                <br/>
 	                <b>Ícaro Dias</b>
 	            </a>
-	            <br><img src="https://cdn-icons-png.flaticon.com/128/29/29594.png" width="12%"/> Back End</br>
+	            <br><img src="https://cdn-icons-png.flaticon.com/128/3161/3161133.png" width="12%"/> Back End</br>
 	        </td>
 	    </tr>
 </table>
