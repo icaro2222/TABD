@@ -1,22 +1,4 @@
-# TABD
-## Tópicos Avançados em Banco de Dados
-:bank::control_knobs:
 
+## Criando Funções, Vews, Rolu
 ---
-## Ícaro Dias dos Santos
----
-:bank::control_knobs:
-
-### **Membros do Projeto!** 
-<table align="center">
-	    <tr>
-	        <td align="center">
-	            <a href="https://github.com/icaro2222">
-	                <img alt="Perfil do git do Ícaro" width="100" src="https://avatars.githubusercontent.com/u/71037296?v=4"></img>
-	                <br/>
-	                <b>Ícaro Dias</b>
-	            </a>
-	            <br><img src="https://cdn-icons-png.flaticon.com/128/3161/3161133.png" width="12%"/> Back End</br>
-	        </td>
-	    </tr>
-</table>
+* A view pode ser definida como uma tabela virtual composta por linhas e colunas de dados vindos de tabelas relacionadas em uma query (um agrupamento de SELECT’s, por exemplo). As linhas e colunas da view são geradas dinamicamente no momento em que é feita uma referência a ela.
