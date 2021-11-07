@@ -1,13 +1,7 @@
-# TABD
-## Tópicos Avançados em Banco de Dados
+
 :bank::control_knobs:
 
----
-## Ícaro Dias dos Santos
----
-:bank::control_knobs:
-
-### **Membros do Projeto!** 
+### **Modelo Entidade E Relacionamento** 
 <table align="center">
 	    <tr>
 	        <td align="center">
