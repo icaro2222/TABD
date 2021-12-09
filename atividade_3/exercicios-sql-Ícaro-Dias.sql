@@ -6,8 +6,8 @@ set schema 'icaro-teste';
 
 ------------------ CHECK DEFAULT CONSTRAINT -------------------
 
-CREATE TABLE produtos (
-produto_no integer,
+CREATE TABLE teste (
+produto_no serial,
 descricao text,
 preco numeric DEFAULT 9.99
 );
@@ -743,6 +743,19 @@ SELECT * FROM  comparar_nota_maior_menor_e_nota_media;
 
 
 
+
+
+set schema 'icaro';
+
+insert into teste(descricao, preco) values('nnoioi', 222);
+
+select * from teste;
+
+CREATE TABLE teste (
+produto_no serial,
+descricao text,
+preco numeric DEFAULT 9.99
+);
 
 
 
