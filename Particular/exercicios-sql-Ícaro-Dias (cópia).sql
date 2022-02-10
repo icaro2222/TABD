@@ -1762,7 +1762,6 @@ Crie a mesma função que insira o nome da empresa e o nome do cliente retornand
 ambos
 
 create or replace function empresa_cliente_id(varchar,varchar) returns _int4 as
-'
 declare
 nempresa alias for $1;
 ncliente alias for $2;
@@ -1775,7 +1774,6 @@ empresaid := currval(''empresas_id_seq'');
 clienteid := currval(''clientes_id_seq'');
 return ''{''|| empresaid ||'',''|| clienteid ||''}'';
 end;
-'
 language 'plpgsql';
 
 Crie uma função onde passamos como parâmetro o id do cliente e seja retornado o
